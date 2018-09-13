@@ -1,0 +1,7 @@
+Supervisor name,capacity,topic area,key word #1,key word #2,key word #3,key word #4,key word #5
+supervisor_1,6,organic,keyword_1,keyword_2,keyword_3,keyword_4,keyword_5
+supervisor_2,5,organic,keyword_5,keyword_1,keyword_2,keyword_3,keyword_4
+supervisor_3,4,inorganic,keyword_4,keyword_5,keyword_1,keyword_2,keyword_3
+supervisor_4,3,inorganic,keyword_3,keyword_4,keyword_5,keyword_1,keyword_2
+supervisor_5,invalid int,physical,keyword_2,keyword_3,keyword_4,keyword_5,keyword_1
+supervisor_2,1,computational,keyword_1,keyword_2,keyword_3,keyword_4,keyword_5
