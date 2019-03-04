@@ -11,6 +11,7 @@ import java.util.logging.Logger;
  * Bath University<br>
  * Email: rbc31@bath.ac.uk
  *
+ * Based off implementation: by jaehyunp (https://github.com/jaehyunp/stanfordacm/blob/master/code/MinCostMaxFlow.java)
  */
 public class MinCostMaxFlow {
     
